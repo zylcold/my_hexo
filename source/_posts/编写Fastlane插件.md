@@ -18,7 +18,7 @@ gem
 bundle 
 fastlene 
 
-# 相关指令
+## 相关指令
 * **new_plugin** 创建一个plugin
 * **add_plugin** 添加plugin到fastlane
 * **update_plugins** 更新plugin
